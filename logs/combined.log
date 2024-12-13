@@ -1,0 +1,12 @@
+{"level":"info","message":"GET / - Started","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:02:27"}
+{"level":"info","message":"GET / - 404 (17ms)","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:02:27"}
+{"level":"info","message":"GET /favicon.ico - Started","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:02:27"}
+{"level":"info","message":"GET /favicon.ico - 404 (3ms)","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:02:27"}
+{"level":"info","message":"POST /register - Started","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:08:07"}
+{"level":"info","message":"POST /register - 404 (2ms)","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:08:07"}
+{"level":"info","message":"GET /customers/1 - Started","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:10:26"}
+{"level":"info","message":"GET /customers/1 - 404 (2ms)","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:10:26"}
+{"level":"info","message":"GET /customers/1 - Started","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:10:33"}
+{"level":"info","message":"GET /customers/1 - 404 (3ms)","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:10:33"}
+{"level":"info","message":"GET /customers - Started","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:11:17"}
+{"level":"info","message":"GET /customers - 404 (1ms)","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:11:17"}
