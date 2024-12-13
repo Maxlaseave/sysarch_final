@@ -26,4 +26,4 @@ const checkRole = (roles) => {
     };
   };
   
-  module.exports = { authenticateToken, checkRole };
+module.exports = { authenticateToken, checkRole };
