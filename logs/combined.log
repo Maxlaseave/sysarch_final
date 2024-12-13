@@ -10,3 +10,21 @@
 {"level":"info","message":"GET /customers/1 - 404 (3ms)","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:10:33"}
 {"level":"info","message":"GET /customers - Started","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:11:17"}
 {"level":"info","message":"GET /customers - 404 (1ms)","service":"enterprise-integration-platform","timestamp":"2024-12-13 23:11:17"}
+{"level":"info","message":"GET /customers - Started","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:15:35"}
+{"level":"info","message":"GET /customers - 404 (12ms)","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:15:35"}
+{"level":"info","message":"GET /api/crm/customers - Started","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:25:23"}
+{"level":"info","message":"GET /customers - 401 (6ms)","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:25:23"}
+{"level":"info","message":"POST /auth/register%0A - Started","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:27:30"}
+{"level":"info","message":"POST /auth/register%0A - 404 (2ms)","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:27:30"}
+{"level":"info","message":"POST /auth/register - Started","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:28:38"}
+{"level":"info","message":"User johndoe registered successfully","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:28:38"}
+{"level":"info","message":"POST /register - 201 (138ms)","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:28:38"}
+{"level":"info","message":"POST /auth/login - Started","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:29:54"}
+{"level":"info","message":"User johndoe logged in successfully","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:29:54"}
+{"level":"info","message":"POST /login - 200 (106ms)","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:29:54"}
+{"level":"info","message":"GET /api/crm/customers - Started","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:34:35"}
+{"level":"info","message":"Fetching all customers","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:34:35"}
+{"level":"info","message":"GET /customers - 200 (5ms)","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:34:35"}
+{"level":"info","message":"GET /api/crm/customers - Started","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:34:57"}
+{"level":"info","message":"Fetching all customers","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:34:57"}
+{"level":"info","message":"GET /customers - 200 (2ms)","service":"enterprise-integration-platform","timestamp":"2024-12-14 01:34:57"}
