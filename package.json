@@ -2,7 +2,7 @@
   "name": "enterprise-integration-platform",
   "version": "1.0.0",
   "description": "Enterprise Integration Platform with CRM, Inventory, and Support Systems",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",

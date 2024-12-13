@@ -6,7 +6,7 @@ const { v4: uuidv4 } = require('uuid');
 // In-memory user storage (replace with database in production)
 const users = [];
 
-const JWT_SECRET = process.env.JWT_SECRET || 'your_jwt_secret';
+const JWT_SECRET = process.env.JWT_SECRET || 'secretkey';
 
 const login = (req, res) => {
   const { username, password } = req.body;

@@ -16,9 +16,9 @@ const { authenticateToken } = require('./src/middleware/auth.middleware');
 const { requestLogger } = require('./src/middleware/logging.middleware');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
-// Middleware setup
+// Middleware 
 app.use(helmet());
 app.use(express.json());
 app.use(requestLogger);
