@@ -3,7 +3,6 @@ const jwt = require('jsonwebtoken');
 const logger = require('../utils/logger');
 const { v4: uuidv4 } = require('uuid');
 
-// In-memory user storage (replace with database in production)
 const users = [];
 
 const JWT_SECRET = process.env.JWT_SECRET || 'secretkey';

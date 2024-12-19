@@ -1,6 +1,5 @@
 const logger = require('../utils/logger');
 
-// In-memory support tickets storage (replace with database in production)
 const tickets = [
   { 
     id: '1', 
