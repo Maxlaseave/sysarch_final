@@ -1,6 +1,5 @@
 const logger = require('../utils/logger');
 
-// In-memory customer storage (replace with database in production)
 const customers = [
   { id: '1', name: 'Acme Corp', contact: 'John Doe', email: 'john@acme.com' },
   { id: '2', name: 'Tech Innovations', contact: 'Jane Smith', email: 'jane@techinnovations.com' }

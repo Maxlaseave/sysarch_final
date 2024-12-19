@@ -1,6 +1,5 @@
 const logger = require('../utils/logger');
 
-// In-memory inventory storage (replace with database in production)
 const inventory = [
   { id: '1', name: 'Laptop', stock: 50, supplier: 'Tech Suppliers Inc' },
   { id: '2', name: 'Smartphone', stock: 100, supplier: 'Global Electronics' }
